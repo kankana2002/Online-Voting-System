@@ -1,7 +1,8 @@
 # Online Voting System using HTML, CSS, PHP, JavaScript, and MySQL
 Welcome to the Online Voting System README! 🗳️ This comprehensive guide will walk you through setting up and understanding an interactive online voting system using a stack of powerful web technologies including HTML, CSS, PHP, JavaScript, and MySQL. Whether you're a beginner or an experienced developer, this project is a great opportunity to hone your skills and contribute to the democratic process! 🌟<br>
 
-✍🏻<b>Prerequisites</b><br>
+
+✍🏻             <b>Prerequisites</b><br>
 
 Before diving into the setup, make sure you have the following essentials:<br>
 
